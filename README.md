@@ -14,4 +14,4 @@
 |:------:|:------:|:------:|:------:|
 |2022-04-06|16236|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/soom/Graph_Traversal/16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py)|
 |2022-04-07|1753|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/soom/Shortest_Path/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
-|2022-04-08|1600|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/soom/Shortest_Path/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
+|2022-04-08|1600|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/soom/Graph_Traversal/1600_%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4.py)|
