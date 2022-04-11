@@ -10,7 +10,7 @@
 |2022-04-08|13549|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
 |2022-04-09|16236|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py)|
 |2022-04-10|1719|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1719_%ED%83%9D%EB%B0%B0.py)|
-|2022-04-11|9466|ing|코드링크|
+|2022-04-11|9466|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/9466_%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.py)|
 
 ### 수민
 |날짜|문제 번호|풀이 상태|문제링크|
