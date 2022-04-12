@@ -111,24 +111,25 @@ def create_boom(queue):
     # 폭탄 채우기
     for i in range(R):
         for j in range(C):
-            if grid[i][j] == "." and (i, j) not in boom_list:
+            if grid[i][j] == ".":
                 grid[i][j] = "O"
                 queue.append((i, j))
 
 
-def boom(queue, boom_list):
+def boom(queue, queue2):
 
+    location = []
     while queue:
         x, y = queue.popleft()
-
+        if (x, y) in queue2:
+            continue
         grid[x][y] = "."
-        if (x, y) in boom_list:
-            boom_list.remove((x, y))
+        location.append((x, y))
+
         for i in range(4):
             nx = x+dx[i]
             ny = y+dy[i]
-            if check_range(nx, ny) and grid[nx][ny] == "O":
-                boom_list.append((nx, ny))
+            if check_range(nx, ny):
                 grid[nx][ny] = "."
 
 
@@ -141,17 +142,16 @@ def bfs(q, q2, boom_list):
                 create_boom(q2)
             else:
                 create_boom(q)
-            boom_list = []
 
         else:
             if (second-3) % 4 == 0:
-                boom(q, boom_list)
+                boom(q, q2)
             else:
-                boom(q2, boom_list)
+                boom(q2, q)
 
-        print("\n-------------", second)
-        for i in range(R):
-            print(grid[i])
+        # print("\n-------------", second)
+        # for i in range(R):
+        #     print(grid[i])
 
         second += 1
 
@@ -168,7 +168,7 @@ else:
             if grid[i][j] == "O":
                 q.append((i, j))
 
-bfs(q, q2, boom_list)
+    bfs(q, q2, boom_list)
 
-for i in range(R):
-    print("".join(grid[i]))
+    for i in range(R):
+        print("".join(grid[i]))

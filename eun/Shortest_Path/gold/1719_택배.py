@@ -61,7 +61,7 @@ for i in range(1, N+1):
 for i in range(1, N+1):
     print(' '.join(map(str, result[i][1:])))
 
-# 벨만 포드
+# 플로이드 워셜
 # import sys
 # input = sys.stdin.readline
 # INF = int(1e9)
