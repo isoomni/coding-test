@@ -7,7 +7,7 @@ data = []
 result = ''
 cnt = 0
 
-for j in range(1, l): # 약수로만 자를 수 있다. j = 단위
+for j in range(1, l): # j = 단위
 
         for i in range(0, l, j):
             data.append(s[i:i+j])
