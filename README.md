@@ -15,8 +15,8 @@
 |2022-04-14|위장|ing|코드링크|
 |2022-04-15|문자열 압축|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.py)|
 |2022-04-15|전화번호 목록|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|
-|2022-04-16|주식가격|complete|코드링크|
-|2022-04-16|순위검색|ing|코드링크|
+|2022-04-16|주식가격|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|
+|2022-04-16|순위검색|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|
 
 
 ### 수민
