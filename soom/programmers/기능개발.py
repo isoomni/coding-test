@@ -16,7 +16,10 @@ def solution(progresses, speeds):
         if day[front] < day[idx]:
             answer.append(idx-front)
             front = idx
-    answer.append(len(day)-front)
+        print('day',day[idx])
+        print('front',front)
+    print('front', front)
+    answer.append(len(day)-front) # 마지막에 넣으면 됨
 
     return answer
 
