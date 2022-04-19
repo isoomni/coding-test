@@ -3,8 +3,6 @@ import math
 progresses = list(map(int, (input().split())))
 speeds = list(map(int, (input().split())))
 
-import math
-
 def solution(progresses, speeds):
     # 100-93 // 7 올림
     # 100 - 30 // 30  math.ceil((100-progresses[i])//speeds[i])  -> 완료 일 수
