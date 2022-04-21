@@ -17,7 +17,7 @@ for i in range(n):
             chickens.append([i, j])
 
 chicken_load = n**3
-chicken_list = combinations(chickens, m)
+chicken_list = combinations(chickens, m)  # 조합을 이용해 치킨 집을 m개 고름
 
 for chicken in chicken_list:
     # chicken -> 치킨집 중 m개 고름
@@ -27,7 +27,7 @@ for chicken in chicken_list:
             if abs(homes[i][0]-a)+abs(homes[i][1]-b) < min_dist[i]:
                 min_dist[i] = abs(homes[i][0]-a)+abs(homes[i][1]-b)
 
-    if chicken_load > sum(min_dist):
+    if chicken_load > sum(min_dist):  # 각 집의 치킨 거리의 합 = chicken load
         chicken_load = sum(min_dist)
 
 print(chicken_load)
