@@ -11,6 +11,7 @@ for j in range(1, l): # j = 단위
 
         for i in range(0, l, j):
             data.append(s[i:i+j])
+        print(data)
         
         for a in range(0, len(data)):
             # 이전 문자열과 현재 문자열이 같고, 현재 문자열이 다음 문자열과 같으면 하나 더 가야하니까 cnt+=1하고 다음으로

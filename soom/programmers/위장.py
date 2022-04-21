@@ -16,6 +16,7 @@ for i in range(cl):
         v[clothes[i][1]] = 1
     elif clothes[i][1] in v:
         v[clothes[i][1]] += 1
+    print(v)
 
 # 스파이가 옷을 입는 경우 의 수 = (A 옷 보유 수 + 1) (B 옷 보유 수 + 1) (C 옷 보유 수 + 1) - 1(아무것도 입지 않는 경우)
 for j in v:
