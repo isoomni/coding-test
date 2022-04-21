@@ -4,34 +4,26 @@
 # location을 딕셔너리 key값으로 찾아서 printer idx를 출력
 # 40점
 from collections import deque
-priorities = [1, 1, 3, 1, 3, 1, 3]
-location = 3
+priorities = [1,5,2,21,6]
+location = 2
+from collections import deque
+
 def solution(priorities, location):
-    temp = []
     answer = 0
-    for i in range(len(priorities)):
-        temp.append((i,priorities[i]))
-        q = deque(temp)
-    print(q)
+    q = deque([(i, priorities[i]) for i in range(len(priorities))])
     
-    pre = []
-    nxt = []
-    for i in range(len(q)):
+    result = []
+    while q:
         pl = q.popleft()
-        for j in range(len(q)):
-            print('popleft한 수, 비교 수', pl[1], q[j][1])
-            if pl[1] < q[j][1]:
-                pre.append(pl)
-                print('pre에 넣었음', pre)
+        for i in range(len(q)):
+            if pl[1] < q[i][1]:
+                q.append(pl)
                 break
-        if pl not in pre:
-            nxt.append(pl)
-            print('next에 넣었음',nxt)
-    q = nxt + pre
-    print(q)
+        if pl not in q:
+            result.append(pl)
     
-    for i in range(len(q)):
-        if q[i][0] == location:
+    for i in range(len(result)):
+        if result[i][0] == location:
             return i+1
 
 print(solution(priorities, location))
