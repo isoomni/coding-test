@@ -13,16 +13,16 @@
 |2022-04-11|9466|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/9466_%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.py)|
 |2022-04-13|13305|complete|코드링크|
 |2022-04-14|조이스틱|ing|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py)|
-|2022-04-14|위장|ing|코드링크|
+|2022-04-14|위장|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%9C%84%EC%9E%A5.py)|
 |2022-04-15|문자열 압축|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.py)|
 |2022-04-15|전화번호 목록|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|
 |2022-04-16|주식가격|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|
 |2022-04-16|순위검색|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|
 |2022-04-17|프린터|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py)|
 |2022-04-17|기능개발|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)|
-|2022-04-19|동전0|complete|코드링크|
-|2022-04-20|치킨 배달|complete|코드링크|
-|2022-04-21|미세먼지 안녕!|ing|코드링크|
+|2022-04-19|11047 동전0|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Greedy/silver/11047_%EB%8F%99%EC%A0%840.py)|
+|2022-04-20|치킨 배달|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)|
+|2022-04-21|17144 미세먼지 안녕!|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.py)|
 |2022-04-22|사다리 조작|complete|코드링크|
 
 
