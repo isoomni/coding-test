@@ -3,15 +3,15 @@
 ### 은정
 |날짜|문제 번호|풀이 상태|문제링크|
 |:------:|:------:|:------:|:------:|
-|2022-04-06|11265|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/silver/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.py)|
-|2022-04-06|1753|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
-|2022-04-07|16918|ing|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/silver/16918_%EB%B4%84%EB%B2%84%EB%A7%A8.py)|
-|2022-04-07|1600|ing|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/1600_%EB%A7%90%EC%9D%B4%EB%90%98%EA%B3%A0%ED%94%88%EC%9B%90%EC%88%AD%EC%9D%B4.py)|
-|2022-04-08|13549|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
-|2022-04-09|16236|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py)|
-|2022-04-10|1719|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1719_%ED%83%9D%EB%B0%B0.py)|
-|2022-04-11|9466|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/9466_%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.py)|
-|2022-04-13|13305|complete|코드링크|
+|2022-04-06|11265 끝나지 않는 파티|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/silver/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.py)|
+|2022-04-06|1753 최단 경로|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
+|2022-04-07|16918 봄버맨|ing|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/silver/16918_%EB%B4%84%EB%B2%84%EB%A7%A8.py)|
+|2022-04-07|1600 말이 되고픈 원숭이|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/1600_%EB%A7%90%EC%9D%B4%EB%90%98%EA%B3%A0%ED%94%88%EC%9B%90%EC%88%AD%EC%9D%B4.py)|
+|2022-04-08|13549 숨바꼭질3|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)|
+|2022-04-09|16236 아기 상어|complete|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.py)|
+|2022-04-10|1719 택배|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Shortest_Path/gold/1719_%ED%83%9D%EB%B0%B0.py)|
+|2022-04-11|9466 텀프로젝트|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Graph_Traversal/gold/9466_%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.py)|
+|2022-04-13|13305 주유소|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Greedy/silver/13305_%EC%A3%BC%EC%9C%A0%EC%86%8C.py)|
 |2022-04-14|조이스틱|ing|[코드 링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py)|
 |2022-04-14|위장|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%9C%84%EC%9E%A5.py)|
 |2022-04-15|문자열 압축|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.py)|
@@ -22,8 +22,8 @@
 |2022-04-17|기능개발|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)|
 |2022-04-19|11047 동전0|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Greedy/silver/11047_%EB%8F%99%EC%A0%840.py)|
 |2022-04-20|치킨 배달|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)|
-|2022-04-21|17144 미세먼지 안녕!|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.py)|
-|2022-04-22|사다리 조작|complete|코드링크|
+|2022-04-21|17144 미세먼지 안녕!|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.py)|
+|2022-04-22|사다리 조작|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/gold/15684_%EC%82%AC%EB%8B%A4%EB%A6%AC%EC%A1%B0%EC%9E%91.py)|
 
 
 
