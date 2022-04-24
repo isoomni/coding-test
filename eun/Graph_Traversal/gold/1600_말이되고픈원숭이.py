@@ -32,13 +32,11 @@ def calculate_shortest():
 
         if k > 0:
             # 퀸의 움직임을 사용할 수 있을 때
-
             for i in range(8):
                 nx = x+q_dx[i]
                 ny = y+q_dy[i]
-                print(nx, ny)
                 if check_range(nx, ny) and grid[nx][ny] == 0 and graph[nx][ny][k-1] == 0:
-                    # 범위를 벗어나지 않고, 장애물이 아니며, 퀸의 움직임을 아직 쓸 수 있을 때
+                    # 범위를 벗어나지 않고, 장애물이 아니며, 아직 방문하지 않았을 때
                     graph[nx][ny][k-1] = graph[x][y][k]+1
                     q.append((nx, ny, k-1))  # k 하나 씀
 
@@ -46,10 +44,11 @@ def calculate_shortest():
             nx = x+dx[i]
             ny = y+dy[i]
             if check_range(nx, ny) and grid[nx][ny] == 0 and graph[nx][ny][k] == 0:
-                # 범위를 벗어나지 않고, 장애물이 아닐 때
+                # 범위를 벗어나지 않고, 장애물이 아니며, 아직 방문하지 않았을 때
                 graph[nx][ny][k] = graph[x][y][k]+1
                 q.append((nx, ny, k))  # k 그대로
-    return -1
+
+    return -1  # 도달하지 못할 경우
 
 
 print(calculate_shortest())
