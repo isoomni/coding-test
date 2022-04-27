@@ -6,6 +6,7 @@
 # 3번 테케를 보고 치킨거리의 집의 개수가 모두 동일할 수 있음을 깨달음 -> itertools를 사용할 수 없음
 # 치킨집의 경우의 수를 모두 조합하여 어떤 조합의 도시의 치킨거리가 가장 작은지 고려하여 돌려야 함.
 # 완전탐색
+# 3시간 소요
 
 import sys
 from itertools import combinations
