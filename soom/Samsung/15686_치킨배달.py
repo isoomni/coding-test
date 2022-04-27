@@ -16,19 +16,22 @@ n, m = map(int, input().split())
 # 지도 생성
 data = [list(map(int,input().split())) for i in range(n)]
 # print(data)
+# [[1, 2, 0, 2, 1], [1, 2, 0, 2, 1], [1, 2, 0, 2, 1], [1, 2, 0, 2, 1], [1, 2, 0, 2, 1]]
 
 # 치킨집과 집 각각의 좌표모음
 chicken = [(i+1, j+1) for i, row in enumerate(data) for j, value in enumerate(row) if value == 2] 
 home =  [(i+1, j+1) for i, row in enumerate(data) for j, value in enumerate(row) if value == 1] 
 # print('chicken', chicken) 
+# chicken [(1, 2), (1, 4), (2, 2), (2, 4), (3, 2), (3, 4), (4, 2), (4, 4), (5, 2), (5, 4)]
 # print('home', home) 
+# home [(1, 1), (1, 5), (2, 1), (2, 5), (3, 1), (3, 5), (4, 1), (4, 5), (5, 1), (5, 5)]
 
-# itertools
 chicken_combi = []
-
+# itertools - combinations -> 후에 직접 구현 코드로 변경해야 함.
 for i in combinations(chicken, m):
     chicken_combi.append(i)
 # print(chicken_combi)
+# [((1, 2),), ((1, 4),), ((2, 2),), ((2, 4),), ((3, 2),), ((3, 4),), ((4, 2),), ((4, 4),), ((5, 2),), ((5, 4),)] 
 
 
 
