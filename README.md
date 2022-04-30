@@ -23,8 +23,8 @@
 |2022-04-19|11047 동전0|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Greedy/silver/11047_%EB%8F%99%EC%A0%840.py)|
 |2022-04-20|치킨 배달|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)|
 |2022-04-21|17144 미세먼지 안녕!|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.py)|
-|2022-04-22|사다리 조작|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/gold/15684_%EC%82%AC%EB%8B%A4%EB%A6%AC%EC%A1%B0%EC%9E%91.py)|
-
+|2022-04-22|15684 사다리 조작|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/gold/15684_%EC%82%AC%EB%8B%A4%EB%A6%AC%EC%A1%B0%EC%9E%91.py)|
+|2022-04-29|21610 마법사 상어와 비바리기|ing|코드링크|
 
 
 ### 수민
