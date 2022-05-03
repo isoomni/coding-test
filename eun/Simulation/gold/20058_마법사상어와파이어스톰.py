@@ -1,6 +1,7 @@
 # 20058 마법사 상어와 파이어스톰
 # 2022-04-29
-
+import sys
+sys.stdin = open('eun/input/20058.txt', 'r')
 n, q = map(int, input().split())
 grid = [list(map(int, input().split())) for _ in range(2**n)]
 magic = list(map(int, input().split()))
@@ -9,80 +10,80 @@ dx = [0, 1, 0, -1]
 dy = [1, 0, -1, 0]
 
 
-def check_edge(L, x, y):
-    if x % (2**L) == 0 and y % (2**L) == 0:
-        return True
-    # if x%(2**L)==0 and y%(2**L)-1==0:
-    #     return True
-    # if x%(2**L)-1==0 and y%(2**L)-1==0:
-    #     return True
-    # if x%(2**L)-1==0 and y%(2**L)==0:
-    #     return True
-    return False
+def turn(x, y, num):
+    turn_list = []
+    for i in range(x, x+num):
+        turn_list.append(grid[i][y:y+num])
+    turn_list = list(map(list, zip(*turn_list[::-1])))
+    a = 0
+    b = 0
+    for i in range(x, x+num):
+        for j in range(y, y+num):
+            grid[i][j] = turn_list[a][b]
+            b += 1
+        a += 1
+        b = 0
 
 
-def turn(L, a, b):
-    x, y = a, b
-    for i in range(L):
-        if x > y:
-            break
-        grid[x][y], grid[x][y+(2**L)-1], grid[x+(2**L)-1][y+(2**L)-1], grid[x+(2**L)-1][y] = grid[x+(
-            2**L)-1][y], grid[x][y], grid[x][y+(2**L)-1], grid[x+(2**L)-1][y+(2**L)-1]
-        x += 1
-        y += 1
+def ice_magic():
+    l = []
 
-        temp = [grid[i][0] for i in range(x+1, x+2**L-1)]
+    for x in range(0, 2**n):
+        for y in range(0, 2**n):
+            count = 0
+            if grid[x][y] > 0:
+                for i in range(4):
+                    nx = x+dx[i]
+                    ny = y+dy[i]
 
-        # 아래 -> 왼쪽
-        index_x = x+(2**L)-1
-        index_y = y+(2**L)-2
-        target_x = index_x-1
-        target_y = index_y-(2**L-2)
-        while index_y > y+(2**L)-1:
-            grid[target_x][target_y] = grid[index_x][index_y]
-            target_x -= 1
-            index_y -= 1
+                    if nx >= 0 and ny >= 0 and nx < 2**n and ny < 2**n and grid[nx][ny] > 0:
+                        count += 1
 
-        # 오른쪽 -> 아래
-        index_x = x+1
-        index_y = y+(2**L)-1
-        target_x = index_x+(2**L-2)
-        target_y = index_y-(2**L-2)
-        while index_x > x+(2**L)-1:
-            grid[target_x][target_y] = grid[index_x][index_y]
-            target_y -= 1
-            index_x += 1
+                if count < 3:
+                    l.append((x, y))
 
-        # 위 -> 오른쪽
-        index_x = x
-        index_y = y+1
-        target_x = x+1
-        target_y = y+(2**L)-1
-        while index_y > y+(2**L)-1:
-            grid[target_x][target_y] = grid[index_x][index_y]
-            target_x += 1
-            index_y += 1
-
-        # 오르쪽 -> 위
-        target_x = x
-        target_y = y+1
-        for index in range(len(temp)):
-            grid[target_x][target_y] = temp[index]
-            target_y += 1
+    # print(l)
+    for i, j in l:
+        grid[i][j] -= 1
 
 
-def solution(L):
+def solution():
+    for L in magic:
+        for i in range(0, 2**n, 2**L):
+            for j in range(0, 2**n, 2**L):
+                turn(i, j, 2**L)
 
-    for x in range(2**n):
-        for y in range(2**n):
-            if check_edge(L, x, y):
-                turn(L, x, y)
-                print("--------------")
-                print(x, y)
-                for i in range(len(grid)):
-                    print(grid[i])
-                print("---------------")
+        ice_magic()
 
 
-for L in magic:
-    solution(L)
+def dfs(x, y):
+    global max_count
+    visited[x][y] = True
+    for i in range(4):
+        nx = x+dx[i]
+        ny = y+dy[i]
+
+        if nx >= 0 and ny >= 0 and nx < 2**n and ny < 2**n and grid[nx][ny] > 0 and visited[nx][ny] == False:
+            max_count += 1
+            dfs(nx, ny)
+
+
+solution()
+
+
+ice_sum = 0
+for i in range(2**n):
+    ice_sum += sum(grid[i])
+
+answer = 0
+visited = [[False]*(2**n) for _ in range(2**n)]
+for i in range(0, 2**n):
+    for j in range(0, 2**n):
+        if grid[i][j] > 0 and visited[i][j] == False:
+            max_count = 1
+            dfs(i, j)
+            if answer < max_count:
+                answer = max_count
+
+print(ice_sum)
+print(answer)
