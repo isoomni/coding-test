@@ -24,7 +24,10 @@
 |2022-04-20|치킨 배달|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py)|
 |2022-04-21|17144 미세먼지 안녕!|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/17144_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.py)|
 |2022-04-22|15684 사다리 조작|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/gold/15684_%EC%82%AC%EB%8B%A4%EB%A6%AC%EC%A1%B0%EC%9E%91.py)|
-|2022-04-29|21610 마법사 상어와 비바리기|ing|코드링크|
+|2022-04-29|21610 마법사 상어와 비바리기|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/21610_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0.py)|
+|2022-04-30|20058 마법사 상어와 파이어스톰|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/20058_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%8A%A4%ED%86%B0.py)|
+|2022-05-02|21609 상어중학교|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/21609_%EC%83%81%EC%96%B4%EC%A4%91%ED%95%99%EA%B5%90.py)|
+|2022-05-03|14491 주사위굴리기|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/14499_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)|
 
 
 ### 수민
