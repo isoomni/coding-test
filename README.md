@@ -28,6 +28,8 @@
 |2022-04-30|20058 마법사 상어와 파이어스톰|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/20058_%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%8A%A4%ED%86%B0.py)|
 |2022-05-02|21609 상어중학교|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/21609_%EC%83%81%EC%96%B4%EC%A4%91%ED%95%99%EA%B5%90.py)|
 |2022-05-03|14491 주사위굴리기|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/14499_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)|
+|2022-05-05|숫자 문자열과 영단어|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.py)|
+|2022-05-06|거리두기 확인하기|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)|
 
 
 ### 수민

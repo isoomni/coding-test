@@ -1,4 +1,3 @@
-# 3, 11, 13, 16, 31번 미통과
 def check_range(x, y, n):
     if x >= 0 and y >= 0 and x < n and y < n:
         return True
