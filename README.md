@@ -30,7 +30,9 @@
 |2022-05-03|14491 주사위굴리기|ing|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/14499_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.py)|
 |2022-05-05|숫자 문자열과 영단어|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.py)|
 |2022-05-06|거리두기 확인하기|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)|
-|2022-05-07|표 편집|complete|코드링크|
+|2022-05-07|표 편집|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%ED%91%9C%ED%8E%B8%EC%A7%91.py)|
+|2022-05-08|수식 최대화|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|
+|2022-05-09|보석 쇼핑|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|
 
 ### 수민
 |     날짜     |        문제 번호        |풀이 상태|                                                                                           문제링크                                                                                           |
