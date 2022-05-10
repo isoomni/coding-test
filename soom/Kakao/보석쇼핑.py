@@ -1,4 +1,4 @@
-
+# 
 def solution(gems):
     answer = []
     shortest = len(gems) + 1  # 현재 최단 구간 길이
