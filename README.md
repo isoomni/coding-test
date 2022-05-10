@@ -58,5 +58,5 @@
 | 2022-05-09 |거리두기 확인하기|complete|                    [코드링크](https://github.com/isoomni/coding-test/blob/main/soom/Kakao/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)                    |
 | 2022-05-10 |수식 최대화|complete|  [코드링크](https://github.com/isoomni/coding-test/blob/main/soom/Kakao/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)                                   |
 | 2022-05-10 |표 편집|complete|  [코드링크](https://github.com/isoomni/coding-test/blob/main/soom/Kakao/%ED%91%9C%ED%8E%B8%EC%A7%91.py)                                                                                         |
-| 2022-05-10 |보석 쇼핑|complete| [코드링크]()                                                                                         |
+| 2022-05-10 |보석 쇼핑|complete| [코드링크](https://github.com/isoomni/coding-test/blob/main/soom/Kakao/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)                                                                                         |
 
