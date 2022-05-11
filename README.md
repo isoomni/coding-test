@@ -33,6 +33,8 @@
 |2022-05-07|표 편집|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%ED%91%9C%ED%8E%B8%EC%A7%91.py)|
 |2022-05-08|수식 최대화|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|
 |2022-05-09|보석 쇼핑|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|
+|2022-05-11|20922 겹치는 건 싫어|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/silver/20922_%EA%B2%B9%EC%B9%98%EB%8A%94%EA%B1%B4%EC%8B%AB%EC%96%B4.py)|
+|2022-05-12|2470 두 용액|complete|코드링크|
 
 ### 수민
 |     날짜     |        문제 번호        |풀이 상태|                                                                                           문제링크                                                                                           |
