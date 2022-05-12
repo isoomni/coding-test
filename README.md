@@ -34,7 +34,9 @@
 |2022-05-08|수식 최대화|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|
 |2022-05-09|보석 쇼핑|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|
 |2022-05-11|20922 겹치는 건 싫어|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/silver/20922_%EA%B2%B9%EC%B9%98%EB%8A%94%EA%B1%B4%EC%8B%AB%EC%96%B4.py)|
-|2022-05-12|2470 두 용액|complete|코드링크|
+|2022-05-12|2470 두 용액|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/gold/2470_%EB%91%90%EC%9A%A9%EC%95%A1.py)|
+|2022-05-12|1197 최소 스패닝 트리|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.py)|
+|2022-05-12|1922 네트워크 연결|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1922_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%B0%EA%B2%B0.py)|
 
 ### 수민
 |     날짜     |        문제 번호        |풀이 상태|                                                                                           문제링크                                                                                           |
