@@ -38,6 +38,10 @@
 |2022-05-12|1197 최소 스패닝 트리|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.py)|
 |2022-05-12|1922 네트워크 연결|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1922_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%B0%EA%B2%B0.py)|
 |2022-05-20|1174 줄어드는 수|complete|코드링크|
+|2022-05-21|18430 무기 공학|complete|코드링크|
+|2022-05-22|14712 넴모넴모(easy)|complete|코드링크|
+|2022-05-24|2448 별찍기-11|complete|코드링크|
+|2022-05-25|1074 Z|complete|코드링크|
 
 ### 수민
 |     날짜     |        문제 번호        |풀이 상태|                                                                                           문제링크                                                                                           |
