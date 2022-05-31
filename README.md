@@ -37,6 +37,15 @@
 |2022-05-12|2470 두 용액|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/gold/2470_%EB%91%90%EC%9A%A9%EC%95%A1.py)|
 |2022-05-12|1197 최소 스패닝 트리|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.py)|
 |2022-05-12|1922 네트워크 연결|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/MST/gold/1922_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%B0%EA%B2%B0.py)|
+|2022-05-20|1174 줄어드는 수|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Backtracking/gold/1174_%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%EC%88%98.py)|
+|2022-05-21|18430 무기 공학|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Backtracking/gold/18430_%EB%AC%B4%EA%B8%B0%EA%B3%B5%ED%95%99.py)|
+|2022-05-22|14712 넴모넴모(easy)|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Backtracking/silver/14712_%EB%84%B4%EB%AA%A8%EB%84%B4%EB%AA%A8(Easy).py)|
+|2022-05-24|2448 별찍기-11|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Divide_and_conquer/gold/2448_%EB%B3%84%EC%B0%8D%EA%B8%B011.py)|
+|2022-05-25|1074 Z|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Divide_and_conquer/silver/1074_Z.py)|
+|2022-05-26|17609 회문|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/String/silver/17609_%ED%9A%8C%EB%AC%B8.py)|
+|2022-05-28|20437 문자열게임2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/String/gold/20437_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%8C%EC%9E%842.py)|
+|2022-05-29|15961 회전초밥|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/gold/15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.py)|
+|2022-05-30|22862 가장 긴 짝수 연속한 부분 수열(large)|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/silver/22862_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A7%9D%EC%88%98%EC%97%B0%EC%86%8D%ED%95%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4(large).py)|
 
 ### 수민
 |     날짜     |        문제 번호        |풀이 상태|                                                                                           문제링크                                                                                           |
