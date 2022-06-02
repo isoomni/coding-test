@@ -7,7 +7,7 @@ def is_palindrome(s, cnt):
         left += 1
         right -= 1
     else:
-        return 0
+        return cnt
 
     if cnt > 1:  # cnt가 1이상이면 return 2
         return 2
