@@ -46,6 +46,11 @@
 |2022-05-28|20437 문자열게임2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/String/gold/20437_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%8C%EC%9E%842.py)|
 |2022-05-29|15961 회전초밥|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/gold/15961_%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5.py)|
 |2022-05-30|22862 가장 긴 짝수 연속한 부분 수열(large)|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/TowPointers/silver/22862_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A7%9D%EC%88%98%EC%97%B0%EC%86%8D%ED%95%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4(large).py)|
+|2022-06-04|9465 스티커|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/9465_%EC%8A%A4%ED%8B%B0%EC%BB%A4.py)|
+|2022-06-04|10844 쉬운 계단 수|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/10844_%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.py)|
+|2022-06-05|15486 퇴사2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/15486_%ED%87%B4%EC%82%AC2.py)|
+|2022-06-05|2156 포도주 시식|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.py)|
+
 
 ### 수민
 |     날짜     |        문제 번호        |  풀이 상태   |                                                                                                               문제링크                                                                                                               |
