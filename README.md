@@ -50,6 +50,10 @@
 |2022-06-04|10844 쉬운 계단 수|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/10844_%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.py)|
 |2022-06-05|15486 퇴사2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/15486_%ED%87%B4%EC%82%AC2.py)|
 |2022-06-05|2156 포도주 시식|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Dynamic_Programming/silver/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.py)|
+|2022-06-11|2512 예산|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/2512_%EC%98%88%EC%82%B0.py)|
+|2022-06-12|11663 선분 위의 점|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/11663_%EC%84%A0%EB%B6%84%EC%9C%84%EC%9D%98%EC%A0%90.py)|
+|2022-06-12|19637 IF문 좀 대신 써줘|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/19637_IF%EB%AC%B8%EC%A2%80%EB%8C%80%EC%8B%A0%EC%8D%A8%EC%A4%98.py)|
+|2022-06-15|22871 징검다리 건너기(large)|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/22871_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0(large).py)|
 
 
 ### 수민
