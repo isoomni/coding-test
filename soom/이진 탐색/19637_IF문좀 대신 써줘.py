@@ -1,7 +1,6 @@
 import sys
 input = sys.stdin.readline
 
-
 n, m = map(int, input().split())
 power = [tuple(input().split()) for _ in range(n)] # power[i][1]만 int로 바꾸는 법 알고 싶다....
 
