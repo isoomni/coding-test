@@ -54,7 +54,12 @@
 |2022-06-12|11663 선분 위의 점|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/11663_%EC%84%A0%EB%B6%84%EC%9C%84%EC%9D%98%EC%A0%90.py)|
 |2022-06-12|19637 IF문 좀 대신 써줘|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/19637_IF%EB%AC%B8%EC%A2%80%EB%8C%80%EC%8B%A0%EC%8D%A8%EC%A4%98.py)|
 |2022-06-15|22871 징검다리 건너기(large)|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/BinarySearch/silver/22871_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0(large).py)|
-
+|2022-06-17|15787 기차가 어둠을 헤치고 은하수를|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/15787_%EA%B8%B0%EC%B0%A8%EA%B0%80%EC%96%B4%EB%91%A0%EC%9D%84%ED%97%A4%EC%B9%98%EA%B3%A0%EC%9D%80%ED%95%98%EC%88%98%EB%A5%BC.py)|
+|2022-06-16|20207 달력|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/20207_%EB%8B%AC%EB%A0%A5.py)|
+|2022-06-26|20164 홀수 홀릭 호석|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/20164_%ED%99%80%EC%88%98%ED%99%80%EB%A6%AD%ED%98%B8%EC%84%9D.py)|
+|2022-06-16|14719 빗물|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/14719_%EB%B9%97%EB%AC%BC.py)|
+|2022-06-26|15661 링크와 스타트|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/silver/15661_%EB%A7%81%ED%81%AC%EC%99%80%EC%8A%A4%ED%83%80%ED%8A%B8.py)|
+|2022-06-17|12919 A와 B 2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/12919_A%EC%99%80B2.py)|
 
 ### 수민
 |     날짜     |             문제 번호              |  풀이 상태   |                                                                                                              문제링크                                                                                                               |
