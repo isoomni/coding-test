@@ -60,6 +60,10 @@
 |2022-06-16|14719 빗물|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/14719_%EB%B9%97%EB%AC%BC.py)|
 |2022-06-26|15661 링크와 스타트|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/silver/15661_%EB%A7%81%ED%81%AC%EC%99%80%EC%8A%A4%ED%83%80%ED%8A%B8.py)|
 |2022-06-17|12919 A와 B 2|complete|[코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/gold/12919_A%EC%99%80B2.py)|
+|2022-07-02| 1713 후보 추천하기 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/silver/1713_%ED%9B%84%EB%B3%B4%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.py) | 
+|2022-07-02| 22856 트리 순회 | ing | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/22856_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py) | 
+|2022-07-04| 16719 ZOAC | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/16719_ZOAC.py) | 
+|2022-07-04| 20165 인내의 도미노 장인 호석 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/20165_%EC%9D%B8%EB%82%B4%EC%9D%98%EB%8F%84%EB%AF%B8%EB%85%B8%EC%9E%A5%EC%9D%B8%ED%98%B8%EC%84%9D.py) | 
 
 ### 수민
 |     날짜     |             문제 번호              |  풀이 상태   |                                                                                                              문제링크                                                                                                               |
