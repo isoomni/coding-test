@@ -64,7 +64,10 @@
 |2022-07-02| 22856 트리 순회 | ing | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/22856_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py) | 
 |2022-07-04| 16719 ZOAC | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/gold/16719_ZOAC.py) | 
 |2022-07-04| 20165 인내의 도미노 장인 호석 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Simulation/gold/20165_%EC%9D%B8%EB%82%B4%EC%9D%98%EB%8F%84%EB%AF%B8%EB%85%B8%EC%9E%A5%EC%9D%B8%ED%98%B8%EC%84%9D.py) | 
-
+|2022-07-06|2961 도영이가 만든 맛있는 음식 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/silver/2961_%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%EB%A7%8C%EB%93%A0%EB%A7%9B%EC%9E%88%EB%8A%94%EC%9D%8C%EC%8B%9D.py)|
+|2022-07-11|22868 원상 복구 (small) | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/22858_%EC%9B%90%EC%83%81%EB%B3%B5%EA%B5%AC(small).py)|
+|2022-07-11|14620 꽃길 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/silver/14620_%EA%BD%83%EA%B8%B8.py)|
+|2022-07-11|2615 오목 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/2615_%EC%98%A4%EB%AA%A9.py)|
 ### 수민
 |     날짜     |             문제 번호              |  풀이 상태   |                                                                                                              문제링크                                                                                                               |
 |:----------:|:------------------------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
