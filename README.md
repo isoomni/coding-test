@@ -68,6 +68,11 @@
 |2022-07-11|22868 원상 복구 (small) | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/22858_%EC%9B%90%EC%83%81%EB%B3%B5%EA%B5%AC(small).py)|
 |2022-07-11|14620 꽃길 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Brute_Force/silver/14620_%EA%BD%83%EA%B8%B8.py)|
 |2022-07-11|2615 오목 | complete | [코드링크](https://github.com/isoomni/coding-test/blob/main/eun/Implementation/silver/2615_%EC%98%A4%EB%AA%A9.py)|
+|2022-07-17| 11403 경로 찾기 | complete | 코드링크 |
+|2022-07-17| 2224 명제 증명 | complete | 코드링크 |
+
+
+
 ### 수민
 |     날짜     |             문제 번호              |  풀이 상태   |                                                                                                              문제링크                                                                                                               |
 |:----------:|:------------------------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
